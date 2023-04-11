@@ -1,5 +1,6 @@
 // task2 Number Guessing Game
 
+
 package OASIS_INFOBYTE;
 
 import java.util.Scanner;
